@@ -4,6 +4,11 @@ A custom finetune of GPT-2 trained on a custom dataset of victorian literature
 ## Information
 The goal of this finetune is to output high-quality victorian literature, while being customizable with Author's Note and being light to run (aka not being a GPT-Neo or GPT-Jax finetune, for now at least).
 
+
+## Download
+Currently can only be downloaded through Google Drive: https://drive.google.com/file/d/1QuErX7w0C4M-Z4wjm5Z5hXEDTazwKR4y/view?usp=sharing
+
+
 ## Authors Note
 Author's Note was added manually, so please appreciate it. :)
 
