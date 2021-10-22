@@ -6,7 +6,7 @@ The goal of this finetune is to output high-quality victorian literature, while 
 
 
 ## Download
-Currently can only be downloaded through Google Drive: https://drive.google.com/file/d/1QuErX7w0C4M-Z4wjm5Z5hXEDTazwKR4y/view?usp=sharing
+You can download it from [Hugging face](https://huggingface.co/Philipuss/GPT-Macbeth) or [Google Drive](https://drive.google.com/file/d/1QuErX7w0C4M-Z4wjm5Z5hXEDTazwKR4y/view?usp=sharing).
 
 
 ## Authors Note
